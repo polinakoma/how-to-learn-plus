@@ -1,0 +1,13 @@
+.footer__columns {
+    box-sizing: border-box;
+    min-height: 250px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+}
