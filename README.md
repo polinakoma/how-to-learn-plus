@@ -13,4 +13,13 @@
  <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+   <p>Методология БЭМ</p>
+   <p>iFrame</p>
  </div>
+
+  # Как запустить:
+  1. Клонируйте репозиторий git clone 
+  2. Откройте проект в редакторе кода.
+  3. Установите расширение Live Server.
+  4. Запустите Live Server, нажав на кнопку "Go Live" в правом нижнем углу редактора.
+  5. Откройте сайт в браузере по адресу http://localhost:5500.
