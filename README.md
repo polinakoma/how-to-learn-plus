@@ -1,5 +1,5 @@
-# Научиться учиться: как запомнить и не забыть!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+# Страничка Научиться учиться
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=как+запомнить+и+не+забыть+!)](https://git.io/typing-svg)
 
 Этот сайт содержит информацию о современных и эффективных подходах к обучение и усвоения информации.
 Здесть есть 5 практических и действенных способов запоминания. Если вы прокрастинатор (а все мы немного прокрастинаторы), 
